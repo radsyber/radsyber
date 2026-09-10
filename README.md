@@ -1,16 +1,13 @@
-## Hi there 👋
+radsyber / profile==================
 
-<!--
-**radsyber/radsyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+Senior Infrastructure Engineer & Privacy Specialist. 
 
-Here are some ideas to get you started:
+$ cat expertise.txt
+- Linux system administration & kernel/firewall hardening (Debian/Tails)
+- Full-disk encryption (LUKS/Cryptsetup) & GPG key infrastructures
+- Monero full node operation & trustless atomic swap configurations
+- Resource-constrained, secure web application development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ echo $STACK
+Debian | Tails | Git | GPG | Tor | Cryptsetup | Docker | Bash
